@@ -1,3 +1,38 @@
+## CPRG 306 - Assignment 1
+
+This project was created for the Week 2 Assignment using Next.js.
+
+## Installation
+
+1. Clone the repository.
+2. Open project folder using the terminal.
+3. Install dependencies:
+    ```bash
+    npm install
+    npm run dev
+
+## Usage
+
+http://localhost:3000
+
+## Contributing
+
+Contributions are welcome, please fork the repository and submit any pull requests.
+
+## Credits
+
+Thanks to:
+- **Ashlyn Knox** - for guidance in CPRG 306
+- **Next.js** – framework used to build the project ([https://nextjs.org](https://nextjs.org))  
+- **VS Code** – code editor used for development ([https://code.visualstudio.com](https://code.visualstudio.com))  
+
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
