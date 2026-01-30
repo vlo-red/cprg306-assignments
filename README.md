@@ -1,6 +1,6 @@
 ## CPRG 306 - Assignment 1
 
-This project was created for the Week 2 Assignment using Next.js.
+This project was created for the Weekly Assignments using Next.js.
 
 ## Installation
 
