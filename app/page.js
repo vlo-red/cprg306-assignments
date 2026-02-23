@@ -21,6 +21,10 @@ export default function HomePage() {
           Go to Week-5 Assignment:{' '}
           <Link href="/week-5">Week-5 Page</Link>
         </li>
+        <li>
+          Go to Week-6 Assignment:{' '}
+          <Link href="/week-6">Week-6 Page</Link>
+        </li>
       </ul>
     </main>
   );
